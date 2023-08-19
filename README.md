@@ -1,6 +1,9 @@
 ### Welcome to my repository!
 
-- 🌱 Currently developing my skill in Unity and C#
+- I have a technical degree on Digital Games
+- Currently working with Unity and C#
+- Studying Unity engine
+- 🌱 Currently on hiatus on my portfolio :p
 
 &nbsp;
 
